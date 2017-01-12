@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "NewSite-01-04_1948",
+    "name": "Atavara",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -21,8 +21,10 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 4,
-    "versionPublish": "3.10.5"
+    "uniqCompNum": 5,
+    "versionPublish": "3.10.5",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -34,154 +36,7 @@
         "footer_custom": "",
         "html_before": ""
       },
-      "components": [
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery4",
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
-              }
-            ],
-            "spacing": 1,
-            "showText": false,
-            "filter": true,
-            "bgColor": "fff",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
-          },
-          "_anchor": "gallery4-2",
-          "articleLayout": false,
-          "allItem": "All"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header2",
-          "_anchor": "header2-3",
-          "_params": {
-            "imageSize": 50,
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.3,
-            "overlayColor": "#000",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "INTRO WITH IMAGE",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        }
-      ]
+      "components": []
     }
   }
 }
