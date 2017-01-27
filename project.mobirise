@@ -1,30 +1,17 @@
 {
   "settings": {
-    "name": "Atavara",
     "currentPage": "index.html",
-    "theme": {
-      "name": "mobirise3",
-      "title": "Mobirise 3",
-      "styling": {
-        "primaryColor": "#c0a375",
-        "secondaryColor": "#bfcecb",
-        "successColor": "#c0a375",
-        "infoColor": "#7e9b9f",
-        "warningColor": "#f3c649",
-        "dangerColor": "#f28281",
-        "titleFont": "Montserrat",
-        "subtitleFont": "Lora",
-        "textFont": "Roboto Condensed",
-        "isRoundedButtons": true,
-        "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true
-      }
-    },
     "versionFirst": "3.10.5",
+    "versionPublish": "3.11.1",
+    "name": "NewSite-01-15_1335",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {}
+    },
     "uniqCompNum": 5,
-    "versionPublish": "3.10.5",
-    "favicon": "",
-    "noImageResize": ""
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -36,7 +23,17 @@
         "footer_custom": "",
         "html_before": ""
       },
-      "components": []
+      "components": [
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4",
+          "text": "<p>PRELUDĖ</p><p>&nbsp;Pasak seniausių dievų legendų, Praamžiai, sukūrę pasaulį ir palikę kelis sergėtojus, pažadėjo vieną dieną sugrįžti ir iškeliavo ieškoti ko nors įdomesnio. Sergėtojų prižiūrimi dievai ilgą laiką rūpinosi pasauliu ir ten gyvenančiomis tautomis, kol, galop, pradėjo iš nuobodulio niautis vienas su kitu.</p><p>&nbsp;Neilgai truko, kol dievai į savo ginčus ir intrigas įvėlė pir-muosius mirtinguosius. Nuo tada viskas ėmė ristis žemyn ir galiau-siai nutiko kažkas, ko net patys dievai negali, o greičiausiai ir nenori prisimint. Lyg vaikai, sudaužę brangią tetulės vazą ir paslėpę jos likučius po spintele. &nbsp;</p><p>&nbsp;Kaip ten bebūtų, pasaulis pasikeitė. Žemynai susitraukė, kal-nai iškilo ten, kur jų neturėjo būti, o ko nesurijo vandenynai, pri-glaudė dykumos.&nbsp;</p><p>&nbsp;Jau ilgus šimtmečius tose žemėse gyvenančios tautos, giminės ir net klanai vienas kitą pakenčia tik per iššieptus dantis. Orkai, elfai, dvorfai, žmonės, silenos, drakonidai, krokonidai, trifidai, Mahunai, Kahūnai, bafūnai bei kitokie ūnai, ėnai ir inės, kad jie kur patys liežuvius nusilaužtų, yra priversti gyventi nedideliuose plotuose, o tai tikrai nėra pats džiaugsmingiausias dalykas. Tad, nenuostabu, kad dažnas dantų šiepimas baigiasi kibimu vienas kito gerklėn.</p><p><br></p><p>&nbsp;Per amžius kovos tarp tautų buvo aršios ir negailestingos, su trumpais taikos pertrūkiais. Per mažai žemės – atimsim. Per mažai pagarbos iš kitų tautų – mušt jas. Nusišlapino į tavo upelį, panau-dojo tavo šventojo medžių lapus, negerbia tavo dievų – na, jūs pa-tys suprantat – kirst, daužt, negailėt!</p><p>&nbsp;Sakantys, kad dievai tėra mūsų pačių susikurtas mitas, yra naivuoliai. Naivuoliai! Dievai, deivės ir dievukai labai realūs, ga-lingi, itin gyvybingi, apsukrūs, galintys suvaidinti savo mirtį ir vėl kištis į kitų gyvenimą. Tik mirtingi - jais galima atsikratyti, pat-rumpinant per galvą, ar šventyklą. Nors tokia paguoda.&nbsp;</p><p>&nbsp;Dievai niekada nebuvo itin žiaurūs, nei gailestingi. Tarsi pa-augliai, palikti be tėvų ir įsitikinę savo beribiu teisumu, jie visą laiką kovoja vieni su kitais, patylomis rezga intrigas ir niekada nežinai, kuris yra kuris, ir kas iš tiesų tau liepė eiti sudeginti kaimynų tvartą. Juk smagiausia peštis mirtingųjų rankomis.&nbsp;</p><p>&nbsp;Taip viskas ir būtų tęsęsi be galo, jeigu sykį grupelė mirtin-gųjų, padedama atskalūno dievo, nebūtų įgijusi per daug galios ir sugebėjusi nušvilpti kelis galingus Praamžių artefaktus. Lyg to būtų negana, mirtingieji, parodę nosį visam Panteonui, prasmego skradžiai.&nbsp;</p><p>&nbsp;Pabūgę, kad netikėtai sugrįžę Praamžiai neduotų per pastur-galį, Dievai puolė taisyti padėtį, bet nieko nepešė. Bendrom jėgom suradę išdaviką, pabandė jį užspeisti ir iškvosti. Šis, būdamas per-dėm suktas ir užsispyręs, besigindamas paguldė galvą. Negalėdami surasti relikvijų, dievai laukė kas bus. Kai pasaulis nesugriuvo, visi netruko pamiršti šiuos įvykius, palaimingai pasinerdami atgal į savo žaidimus.&nbsp;</p><p>&nbsp;Taip slinko šimtmečiai, kol galop kažkas nusprendė, kad šios relikvijos būtinos pasaulio stabilumui. „Šventenybės netikėlių ran-kose atneš pragaištį viskam!“ – užklykė šventyklų sargai, visokio plauko pranašai ir nuobodžiaujančios bobutės. Tada jau dievai rim-tai susirūpino, ar maža kas.&nbsp;</p><p>&nbsp;Pasitelkę savo tarnus išnaršė visas žemes ir, staigmena, su-prato, kad negali prasiskverbti pro senosios elfų karalystės - Elmo-redeno – burtų skydą! Bandė ir švelniai, ir jėga, bet nieko nepešė. Mirtingieji ėmė šnabždėtis, kad gal dievai nėra tokie galingi, ko-kiais dedasi ir atėjo metas juos pakeisti. Šie, panikos apimti, mal-daujamai nusižeminę kreipėsi pagalbos į vieną likusiųjų Sergėtojų, Arch dievą Noen Anachnad.&nbsp;</p><p>&nbsp;Šis pasikasė savo didžiuosius kiaušinius, pamastė ir pasiūlė išeitį – pasiųsti į Elmoredeną mirtinguosius, tegul tie atgabena arte-faktus, arba paskleidžia žinią, kad už gražinimą bus dosniai atsily-ginta nemirtingumu, atleidimu nuo senų nuodėmių, garantuota am-žina šlovė, kėdė dievų menėse ir dar daug visokių gėrybių, įskaitant nemokamas šokių pamokas. Ir jokios bausmės už prisilietimą prie „šventenybių“.&nbsp;</p><p>&nbsp;Dievai, keikdamiesi, kad patys nesugalvojo tokio paprasto sprendimo, pastatė septynis aštuonstiebius laivus, apsaugotus ga-lingiausiais kerais, susodino į juos tūkstantines savo pasekėjų ir išsiuntė į Elmoredeną, kur „tikriausiai slepiasi  relikvijos, nes kitur jau ieškojom“</p><p>&nbsp;Plaukiant pro magijos barjerą suveikė paslaptingasis „kiau-lystės dėsnis“ ir visi laivai kelionę baigė vandenyno dugne. &nbsp;</p><p><br></p>"
+        }
+      ]
     }
   }
 }
